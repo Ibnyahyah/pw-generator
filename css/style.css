@@ -33,3 +33,9 @@ p{
     color: black;
     font-weight: 600;
 }
+
+@media screen and (max-width: 420px){
+    main{
+        width: 300px !important;
+    }
+}
