@@ -1,0 +1,35 @@
+*{
+    color: sandybrown;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+
+body{
+    background-color: black;
+}
+main{
+    width:400px;
+    height:300px;
+    margin: auto;
+    text-align: center;
+    background-color: white;
+    padding: 20px;
+    box-shadow: 10px 5px gray;
+    margin-top: 100px;
+    font-weight: 500;
+}
+input{
+    padding:10px;
+}
+button{
+    margin-top: 30px;
+    padding: 10px;
+    border: none;
+    background-color: sandybrown;
+    color: black;
+    cursor: pointer;
+}
+p{
+    color: black;
+    font-weight: 600;
+}
